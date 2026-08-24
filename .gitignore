@@ -1,0 +1,13 @@
+.DS_Store
+
+.vscode/
+
+Archivos_Descargables/
+
+Entregables/
+
+**/.venv/
+
+**/_pycache_/
+
+**/.ipynb_checkpoints/

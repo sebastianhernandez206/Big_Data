@@ -1,0 +1,4 @@
+Jupyter == 4.3.4
+numpy == 2.5.2
+pandas == 3.0.5
+python == 3.14.7
