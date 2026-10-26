@@ -1,0 +1,15 @@
+# Ignorar archivos CSV pesados en data
+data/raw/*.csv
+data/processed/*.csv
+
+# Entorno virtual de Python
+.venv/
+venv/
+env/
+
+# Caché de Jupyter Notebook y Python
+.ipynb_checkpoints/
+__pycache__/
+
+# Archivos del sistema en macOS
+.DS_Store
